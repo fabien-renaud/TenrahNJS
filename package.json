@@ -1,0 +1,11 @@
+{
+    "name": "tenahnjs",
+    "version": "0.1.0",
+    "description": "Tenrah's webserver",
+    "dependencies": {
+        "express" : "^4.14",
+        "socket.io" : "^1.7",
+        "external-ip" : "^0.2",
+        "nodemailer" : "^2.7"
+    }
+}
